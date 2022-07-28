@@ -1,0 +1,1 @@
+enum SavingsType { manual, vault, auto }
